@@ -1,0 +1,9 @@
+{
+  "appId": "com.pablu112.beanhopper",
+  "appName": "Bean Hopper",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "assets": {
+    "icon": "www/assets/icon-only.png"
+  }
+}
